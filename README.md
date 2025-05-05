@@ -19,11 +19,10 @@
 ###
 
 <p align="left">
-  We're a small set of coders that work together to make Minecraft mods and modpacks<br><br>
+  We create modpacks that recreate legacy editions of Minecraft, and support mods for servers.<br><br>
   - We're working on <a href="https://github.com/Lightning-Modding/TPSnitch">TPSnitch</a><br>
   - We are also working on <a href="https://modrinth.com/modpack/lite-legacy">Lite-Legacy</a>
 </p>
-
 
 ###
 
@@ -111,3 +110,14 @@
     <img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/a49f8e1b-3835-4ea1-a85b-118c6425ebc3/Modrinth_Dark_Logo.png" width="52" height="40" alt="Modrinth logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">💵 Sponsors</h3>
+
+###
+
+<p align="left">
+  - Buy a server at <a href="https://shop.lightning-mc.net?ref=Lightning-Modding">Lightning-Hosting Shop</a> and play a game with your friends. (Use the link for 10% off)
+  - We run a Minecraft server running <a href="https://modrinth.com/mod/legacy4j">Legacy4J</a>, Join the <a href="http://discord.com/invite/zYEdHhSFM5">discord</a> to join the server
+</p>

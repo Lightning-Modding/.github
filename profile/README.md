@@ -19,11 +19,10 @@
 ###
 
 <p align="left">
-  We're a small set of coders that work together to make Minecraft mods and modpacks<br><br>
+  We create modpacks that recreate legacy editions of Minecraft, and support mods for servers.<br><br>
   - We're working on <a href="https://github.com/Lightning-Modding/TPSnitch">TPSnitch</a><br>
   - We are also working on <a href="https://modrinth.com/modpack/lite-legacy">Lite-Legacy</a>
 </p>
-
 
 ###
 
@@ -114,6 +113,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lightning-Modding/Lightning-Modding/output/snake.svg" alt="Snake animation" />
+<h3 align="left">💵 Sponsors</h3>
 
 ###
+
+<p align="left">
+  - Buy a server at <a href="https://shop.lightning-mc.net?ref=Lightning-Modding">Lightning-Hosting Shop</a> and play a game with your friends. (Use the link for 10% off)
+  - We run a Minecraft server running <a href="https://modrinth.com/mod/legacy4j">Legacy4J</a>, Join the <a href="http://discord.com/invite/zYEdHhSFM5">discord</a> to join the server
+</p>
