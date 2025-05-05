@@ -5,14 +5,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Lightning-Modding.Lightning-Modding&right_color=darkred&left_text=Visitors:%20"  />
 </div>
 
@@ -26,7 +18,12 @@
 
 ###
 
-<p align="left">We're a small set of coders that work together to make minecraft mods and modpacks<br><br>- We're working on [TPSnitch](https://github.com/Lightning-Modding/TPSnitch)<br>- We are also working on (Lite-Legacy)[https://modrinth.com/modpack/lite-legacy]</p>
+<p align="left">
+  We're a small set of coders that work together to make Minecraft mods and modpacks<br><br>
+  - We're working on <a href="https://github.com/Lightning-Modding/TPSnitch">TPSnitch</a><br>
+  - We are also working on <a href="https://modrinth.com/modpack/lite-legacy">Lite-Legacy</a>
+</p>
+
 
 ###
 
@@ -114,9 +111,3 @@
     <img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/a49f8e1b-3835-4ea1-a85b-118c6425ebc3/Modrinth_Dark_Logo.png" width="52" height="40" alt="Modrinth logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Lightning-Modding/Lightning-Modding/output/snake.svg" alt="Snake animation" />
-
-###

@@ -18,7 +18,12 @@
 
 ###
 
-<p align="left">We're a small set of coders that work together to make minecraft mods and modpacks<br><br>- We're working on [TPSnitch](https://github.com/Lightning-Modding/TPSnitch)<br>- We are also working on (Lite-Legacy)[https://modrinth.com/modpack/lite-legacy]</p>
+<p align="left">
+  We're a small set of coders that work together to make Minecraft mods and modpacks<br><br>
+  - We're working on <a href="https://github.com/Lightning-Modding/TPSnitch">TPSnitch</a><br>
+  - We are also working on <a href="https://modrinth.com/modpack/lite-legacy">Lite-Legacy</a>
+</p>
+
 
 ###
 
